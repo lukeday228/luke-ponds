@@ -1,0 +1,2624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>LD pond core coordinates.kmz</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	<Style id="waypointstyle_0">
+		<IconStyle>
+			<color>ffff5500</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table><tr><td>Time</td><td> $[Time] </td></tr><tr><td>Time UTC</td><td> $[Time UTC] </td></tr><tr><td>Latitude</td><td> $[Latitude] </td></tr><tr><td>Longitude</td><td> $[Longitude] </td></tr><tr><td>Text</td><td> $[Text] </td></tr></table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<Placemark>
+			<name>WR2 End Jun 24, 2025 at 4:03PM</name>
+			<description>WR2 End Jun 24, 2025 at 4:03PM</description>
+			<TimeStamp><when>2025-07-02T22:37:59Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1204</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:37:59 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:37:59 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.766445</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.218430</value>
+				</Data>
+				<Data name="Elevation">
+					<value>150.266 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR2 End Jun 24, 2025 at 4:03PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.21843,31.766445,150.27</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR2 C5 Jun 24, 2025 at 4:03PM</name>
+			<description>WR2 C5 Jun 24, 2025 at 4:03PM</description>
+			<TimeStamp><when>2025-07-02T22:37:59Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1203</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:37:59 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:37:59 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.766358</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.218462</value>
+				</Data>
+				<Data name="Elevation">
+					<value>149.961 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR2 C5 Jun 24, 2025 at 4:03PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.218462,31.766358,149.96</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR2 C4 Jun 24, 2025 at 4:02PM</name>
+			<description>WR2 C4 Jun 24, 2025 at 4:02PM</description>
+			<TimeStamp><when>2025-07-02T22:37:59Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1202</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:37:59 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:37:59 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.766265</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.218503</value>
+				</Data>
+				<Data name="Elevation">
+					<value>149.351 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR2 C4 Jun 24, 2025 at 4:02PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.218503,31.766265,149.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR2 C3 Jun 24, 2025 at 4:01PM</name>
+			<description>WR2 C3 Jun 24, 2025 at 4:01PM</description>
+			<TimeStamp><when>2025-07-02T22:37:59Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1201</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:37:59 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:37:59 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.766185</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.218528</value>
+				</Data>
+				<Data name="Elevation">
+					<value>149.351 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR2 C3 Jun 24, 2025 at 4:01PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.21852800000001,31.766185,149.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR2 C2 Jun 24, 2025 at 4:01PM</name>
+			<description>WR2 C2 Jun 24, 2025 at 4:01PM</description>
+			<TimeStamp><when>2025-07-02T22:37:59Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1200</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:37:59 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:37:59 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.766090</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.218539</value>
+				</Data>
+				<Data name="Elevation">
+					<value>148.132 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR2 C2 Jun 24, 2025 at 4:01PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.21853899999999,31.76609,148.13</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR2 C1 Jun 24, 2025 at 4:00 PM</name>
+			<description>WR2 C1 Jun 24, 2025 at 4:00 PM</description>
+			<TimeStamp><when>2025-07-02T22:37:59Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1199</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:37:59 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:37:59 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.765982</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.218525</value>
+				</Data>
+				<Data name="Elevation">
+					<value>149.656 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR2 C1 Jun 24, 2025 at 4:00 PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.218525,31.765982,149.66</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR2 Start Jun 24, 2025 at 2:50 PM</name>
+			<description>WR2 Start Jun 24, 2025 at 2:50 PM</description>
+			<TimeStamp><when>2025-07-02T22:37:59Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1198</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:37:59 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:37:59 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.765895</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.218531</value>
+				</Data>
+				<Data name="Elevation">
+					<value>144.779 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR2 Start Jun 24, 2025 at 2:50 PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.218531,31.765895,144.78</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR1 Start Jun 24, 2025 at 12:42PM</name>
+			<description>WR1 Start Jun 24, 2025 at 12:42PM</description>
+			<TimeStamp><when>2025-07-02T22:39:07Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1210</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:39:07 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:39:07 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.757915</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.217768</value>
+				</Data>
+				<Data name="Elevation">
+					<value>149.656 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR1 Start Jun 24, 2025 at 12:42PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.21776800000001,31.757915,149.66</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR1 End Jun 24, 2025 at 12:31PM</name>
+			<description>WR1 End Jun 24, 2025 at 12:31PM</description>
+			<TimeStamp><when>2025-07-02T22:39:07Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1209</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:39:07 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:39:07 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.758985</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.216717</value>
+				</Data>
+				<Data name="Elevation">
+					<value>148.437 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR1 End Jun 24, 2025 at 12:31PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.216717,31.758985,148.44</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR1 C4 Jun 24, 2025 at 12:09PM</name>
+			<description>WR1 C4 Jun 24, 2025 at 12:09PM</description>
+			<TimeStamp><when>2025-07-02T22:39:07Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1208</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:39:07 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:39:07 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.758635</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.217150</value>
+				</Data>
+				<Data name="Elevation">
+					<value>147.827 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR1 C4 Jun 24, 2025 at 12:09PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.21715,31.758635,147.83</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR1 C1 Jun 24, 2025 at 11:50AM</name>
+			<description>WR1 C1 Jun 24, 2025 at 11:50AM</description>
+			<TimeStamp><when>2025-07-02T22:39:07Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1207</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:39:07 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:39:07 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.758160</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.217582</value>
+				</Data>
+				<Data name="Elevation">
+					<value>149.351 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR1 C1 Jun 24, 2025 at 11:50AM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.21758199999999,31.75816,149.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR1 C2 Jun 24, 2025 at 11:33AM</name>
+			<description>WR1 C2 Jun 24, 2025 at 11:33AM</description>
+			<TimeStamp><when>2025-07-02T22:39:07Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1206</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:39:07 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:39:07 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.758322</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.217466</value>
+				</Data>
+				<Data name="Elevation">
+					<value>145.694 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR1 C2 Jun 24, 2025 at 11:33AM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.217466,31.758322,145.69</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR1 C3 Jun 24, 2025 at 11:30AM</name>
+			<description>WR1 C3 Jun 24, 2025 at 11:30AM</description>
+			<TimeStamp><when>2025-07-02T22:39:07Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1205</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:39:07 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:39:07 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.758481</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.217275</value>
+				</Data>
+				<Data name="Elevation">
+					<value>146.913 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR1 C3 Jun 24, 2025 at 11:30AM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.21727500000001,31.758481,146.91</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WR1 C5 Jun 24, 2025 at 12:15PM</name>
+			<description>WR1 C5 Jun 24, 2025 at 12:15PM</description>
+			<TimeStamp><when>2025-07-02T22:56:41Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1218</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 10:56:41 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 5:56:41 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.758812</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.216965</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>WR1 C5 Jun 24, 2025 at 12:15PM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.216965,31.758812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RB start</name>
+			<description>RB start</description>
+			<TimeStamp><when>2025-07-02T23:32:59Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1219</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 11:32:59 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 6:32:59 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.761930</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.126874</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>RB start</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.126874,31.76193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RB end</name>
+			<description>RB end</description>
+			<TimeStamp><when>2025-07-02T23:34:15Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1220</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 11:34:15 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 6:34:15 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.762553</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.126381</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>RB end</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.12638099999999,31.762553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RB C3</name>
+			<description>RB C3</description>
+			<TimeStamp><when>2025-07-02T23:34:43Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1221</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 11:34:43 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 6:34:43 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.762292</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.126648</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>RB C3</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.126648,31.762292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RB C4</name>
+			<description>RB C4</description>
+			<TimeStamp><when>2025-07-02T23:35:03Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1224</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 11:35:03 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 6:35:03 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.762395</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.126570</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>RB C4</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.12657,31.762395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RB C5</name>
+			<description>RB C5</description>
+			<TimeStamp><when>2025-07-02T23:35:19Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1225</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 11:35:19 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 6:35:19 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.762490</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.126471</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>RB C5</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.12647100000001,31.76249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RB C2</name>
+			<description>RB C2</description>
+			<TimeStamp><when>2025-07-02T23:35:39Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1227</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 11:35:39 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 6:35:39 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.762186</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.126738</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>RB C2</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.12673800000002,31.762186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RB C1</name>
+			<description>RB C1</description>
+			<TimeStamp><when>2025-07-02T23:35:52Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1228</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/2/2025 11:35:52 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/2/2025 6:35:52 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.762057</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.126820</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>RB C1</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.12682000000001,31.762057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL1 C1 Jul 03, 2025 at 11:49 AM</name>
+			<description>LL1 C1 Jul 03, 2025 at 11:49 AM</description>
+			<TimeStamp><when>2025-07-03T16:49:50Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1229</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/3/2025 4:49:50 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/3/2025 11:49:50 AM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.709992</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.186506</value>
+				</Data>
+				<Data name="Elevation">
+					<value>133.197 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL1 C1 Jul 03, 2025 at 11:49 AM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.18650599999999,31.709992,133.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL1 C3 Jul 03, 2025 at 11:52 AM</name>
+			<description>LL1 C3 Jul 03, 2025 at 11:52 AM</description>
+			<TimeStamp><when>2025-07-03T16:52:13Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1231</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/3/2025 4:52:13 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/3/2025 11:52:13 AM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.709720</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.186355</value>
+				</Data>
+				<Data name="Elevation">
+					<value>139.293 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL1 C3 Jul 03, 2025 at 11:52 AM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.18635500000001,31.70972,139.29</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL1 C4 Jul 03, 2025 at 11:52 AM</name>
+			<description>LL1 C4 Jul 03, 2025 at 11:52 AM</description>
+			<TimeStamp><when>2025-07-03T16:53:02Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1232</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/3/2025 4:53:02 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/3/2025 11:53:02 AM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.709619</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.186267</value>
+				</Data>
+				<Data name="Elevation">
+					<value>140.512 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL1 C4 Jul 03, 2025 at 11:52 AM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.186267,31.709619,140.51</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL1 C5 Jul 03, 2025 at 11:53 AM</name>
+			<description>LL1 C5 Jul 03, 2025 at 11:53 AM</description>
+			<TimeStamp><when>2025-07-03T16:53:54Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1233</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/3/2025 4:53:54 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/3/2025 11:53:54 AM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.709488</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.186179</value>
+				</Data>
+				<Data name="Elevation">
+					<value>142.951 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL1 C5 Jul 03, 2025 at 11:53 AM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.186179,31.709488,142.95</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL2 start Jul 11, 2025</name>
+			<description>LL2 start Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T18:12:39Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1234</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 6:12:39 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 1:12:39 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.710384</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.188367</value>
+				</Data>
+				<Data name="Elevation">
+					<value>138.875 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL2 start Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.188367,31.710384,138.88</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL2 C2 Jul 11, 2025</name>
+			<description>LL2 C2 Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T18:15:09Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1236</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 6:15:09 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 1:15:09 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.710134</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.188243</value>
+				</Data>
+				<Data name="Elevation">
+					<value>132.300 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL2 C2 Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.18824300000001,31.710134,132.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL2 C3 Jul 11, 2025</name>
+			<description>LL2 C3 Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T18:16:24Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1237</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 6:16:24 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 1:16:24 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.710023</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.188184</value>
+				</Data>
+				<Data name="Elevation">
+					<value>132.600 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL2 C3 Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.18818400000001,31.710023,132.6</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL2 C5 Jul 11, 2025</name>
+			<description>LL2 C5 Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T18:18:50Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1239</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 6:18:50 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 1:18:50 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.709794</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.188089</value>
+				</Data>
+				<Data name="Elevation">
+					<value>132.000 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL2 C5 Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.18808899999999,31.709794,132</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL2 end Jul 11, 2025</name>
+			<description>LL2 end Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T18:20:15Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1240</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 6:20:15 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 1:20:15 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.709676</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.188034</value>
+				</Data>
+				<Data name="Elevation">
+					<value>132.300 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL2 end Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.188034,31.709676,132.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL2 C4 BEST Jul 11, 2025</name>
+			<description>LL2 C4 BEST Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T18:26:15Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1242</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 6:26:15 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 1:26:15 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.709910</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.188140</value>
+				</Data>
+				<Data name="Elevation">
+					<value>132.892 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL2 C4 BEST Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.18814,31.70991,132.89</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL2 C1 NEW Jul 11, 2025</name>
+			<description>LL2 C1 NEW Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T18:31:56Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1243</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 6:31:56 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 1:31:56 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.710255</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.188300</value>
+				</Data>
+				<Data name="Elevation">
+					<value>130.454 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL2 C1 NEW Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.18829999999998,31.710255,130.45</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL3 end Jul 11, 2025</name>
+			<description>LL3 end Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T22:15:36Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1244</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 10:15:36 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 5:15:36 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.708122</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.189540</value>
+				</Data>
+				<Data name="Elevation">
+					<value>130.829 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL3 end Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.18953999999999,31.708122,130.83</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL3 C5 Jul 11, 2026</name>
+			<description>LL3 C5 Jul 11, 2026</description>
+			<TimeStamp><when>2025-07-11T22:16:55Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1245</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 10:16:55 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 5:16:55 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.708188</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.189417</value>
+				</Data>
+				<Data name="Elevation">
+					<value>130.350 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL3 C5 Jul 11, 2026</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.18941700000001,31.708188,130.35</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL3 C4 Jul 11, 2025</name>
+			<description>LL3 C4 Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T22:17:58Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1246</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 10:17:58 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 5:17:58 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.708233</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.189324</value>
+				</Data>
+				<Data name="Elevation">
+					<value>130.807 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL3 C4 Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.189324,31.708233,130.81</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL3 C3 Jul 11, 2025</name>
+			<description>LL3 C3 Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T22:19:03Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1247</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 10:19:03 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 5:19:03 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.708274</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.189213</value>
+				</Data>
+				<Data name="Elevation">
+					<value>130.627 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL3 C3 Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.189213,31.708274,130.63</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL3 C1 Jul 11, 2025</name>
+			<description>LL3 C1 Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T22:21:30Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1249</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 10:21:30 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 5:21:30 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.708392</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.188999</value>
+				</Data>
+				<Data name="Elevation">
+					<value>131.257 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL3 C1 Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.188999,31.708392,131.26</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL3  start Jul 11, 2025</name>
+			<description>LL3  start Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T22:23:05Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1250</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 10:23:05 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 5:23:05 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.708433</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.188892</value>
+				</Data>
+				<Data name="Elevation">
+					<value>131.272 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL3  start Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.188892,31.708433,131.27</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL3 C2 Best Jul 11, 2025</name>
+			<description>LL3 C2 Best Jul 11, 2025</description>
+			<TimeStamp><when>2025-07-11T22:25:38Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1252</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>7/11/2025 10:25:38 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>7/11/2025 5:25:38 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.708341</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.189100</value>
+				</Data>
+				<Data name="Elevation">
+					<value>130.759 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL3 C2 Best Jul 11, 2025</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.1891,31.708341,130.76</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL 1 C2 New Jul 03, 2025 at 11:50 AM</name>
+			<description>LL 1 C2 New Jul 03, 2025 at 11:50 AM</description>
+			<TimeStamp><when>2026-01-09T22:13:47Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1257</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>1/9/2026 10:13:47 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>1/9/2026 4:13:47 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.709831</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.186437</value>
+				</Data>
+				<Data name="Elevation">
+					<value>135.026 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL 1 C2 New Jul 03, 2025 at 11:50 AM</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.186437,31.709831,135.03</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL1 end</name>
+			<description>LL1 end</description>
+			<TimeStamp><when>2026-01-09T22:21:39Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1259</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>1/9/2026 10:21:39 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>1/9/2026 4:21:39 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.709390</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.186121</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL1 end</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.186121,31.70939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LL1 start</name>
+			<description>LL1 start</description>
+			<TimeStamp><when>2026-01-09T22:22:08Z</when>
+</TimeStamp>
+			<styleUrl>#waypointstyle_0</styleUrl>
+			<ExtendedData>
+				<Data name="Id">
+					<value>-1260</value>
+				</Data>
+				<Data name="Time UTC">
+					<value>1/9/2026 10:22:08 PM</value>
+				</Data>
+				<Data name="Time">
+					<value>1/9/2026 4:22:08 PM</value>
+				</Data>
+				<Data name="Name">
+				</Data>
+				<Data name="Map Display Name">
+				</Data>
+				<Data name="Device Type">
+				</Data>
+				<Data name="IMEI">
+					<value>0</value>
+				</Data>
+				<Data name="Incident Id">
+				</Data>
+				<Data name="Latitude">
+					<value>31.710078</value>
+				</Data>
+				<Data name="Longitude">
+					<value>-97.186544</value>
+				</Data>
+				<Data name="Elevation">
+					<value>0 m from MSL</value>
+				</Data>
+				<Data name="Velocity">
+				</Data>
+				<Data name="Course">
+				</Data>
+				<Data name="Valid GPS Fix">
+					<value>True</value>
+				</Data>
+				<Data name="In Emergency">
+				</Data>
+				<Data name="Text">
+					<value>LL1 start</value>
+				</Data>
+				<Data name="Event">
+					<value>Unknown</value>
+				</Data>
+				<Data name="Device Identifier">
+				</Data>
+				<Data name="SpatialRefSystem">
+					<value>WGS84</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-97.186544,31.710078,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
