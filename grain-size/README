@@ -1,0 +1,48 @@
+Descriptions of columns in Mastersizer grain size .csv outputs:
+Record Number
+	Unique identifier for each measurement or average of measurements in the file
+Sample Name
+	Each sediment core was divided into a number of sections.  These sections were each placed into their own numbered tin (see “tin #” column in original data observations excel workbook).  For each tin, 3 replicate subsamples were analyzed with the Mastersizer grain size hydrometer.  For each subsample, Mastersizer took 5 consecutive measurements and generated an average of these measurements.  
+The names in this column identify which tin and subsample was measured.  
+For example, there are 5 consecutive measurements (Record numbers 229-233) with the following name:
+LL-1 T013-2
+LL-1 is the pond it came from
+          T013 is tin number 13 from that pond
+                     -2 is the 2nd subsample from that tin
+These 5 measurements were taken consecutively from the same subsample, then a 6th entry is generated named “ Average of LL-1 T013-2”
+Measurement Date
+	The date (mm/dd/yyy) and 24-hour time (hh:mm) of each measurement.
+Dx (10)
+	The size of particle in (microns) below which 10% of the sample lies
+Dx (50)
+The size in microns at which 50% of the sample is smaller and 50% is larger. This value is also known as the Mass Median Diameter (MMD) or the median of the volume distribution.
+Dx (90)
+	The size of particle in (microns) below which 90% of the sample lies
+Operator Name
+	The program recording the measurements (Mastersizer)
+[Particle Sizes]
+	The following columns represent the distribution of particle sizes present in the sample measurement.  The columns are labeled with a particle size ranging from 0.01 microns to 3500 microns.  The value recorded in one of these columns is the percentage of particles form the sample that fall into that particular size range.
+GSD [3]
+	Geometric Standard Deviation of the grain size distribution
+Kurtosis [3]
+	Kurtosis value (which is a measure of “tailedness”) of the grain size distribution
+Mode 
+	The particle size in microns with the highest quantity of particles. This corresponds to a “peak” in the distribution
+Mode [0]
+	Not sure why this column exists.  All the values seem to be identical to the previous “Mode” column
+Mode Count
+	The number of modes or “local peaks” in the grain size distribution
+Mode Percent [0]
+	I was unable to find documentation online about what this column is measuring
+Laser Obscuration
+	The percentage of light form the laser which is obscured by sediment if the flow cell
+Invalid Snaps Reported
+	Number of failed measurement attempts that were invalidated by the software
+
+
+I found this Mastersizer 3000 manual online:
+https://www.montana.edu/eal-lres/documents/Mastersizer-3000-user-manual-English-MAN0474-2-1.pdf 
+Steve Dworkin may have more information about the specific setup used at Baylor.
+
+
+
